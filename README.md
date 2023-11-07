@@ -1,6 +1,21 @@
 # 3팀 Hive 기획서 ChangeLog
 서강대 게임교육원 게임제작실습
 
+## 2023-11-07 23:29
+### <b>UI_Details.pptx</b>
+Version 2.0 &#8594; 2.1
+```
+- Home Screen Layout 수정 [16슬라이드]
+재화UI와 설정UI를 우측상단으로 고정
+
+- Squad Screen Layout 수정 [22슬라이드]
+유닛정보 UI 삭제 (버튼도 삭제)
+
+- 유닛정보 UI 삭제 [24슬라이드]
+
+- 유닛 상세정보 UI 추가 [24슬라이드]
+```
+
 ## 2023-11-06 21:14
 ### <b>UI_Details.pptx</b>
 Version 1.0 &#8594; 2.0
