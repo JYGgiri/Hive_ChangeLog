@@ -1,6 +1,37 @@
 # 3팀 Hive 기획서 ChangeLog
 서강대 게임교육원 게임제작실습
 
+## 2023-11-10 17:42
+### <b>UI_Details.pptx</b>
+```
+- Home Screen Layout 수정 [16슬라이드]
+```
+## 2023-11-10 17:04
+### <b>Art_Concept.pptx</b>
+```
+- 코어 컨셉 및 레퍼런스 [10슬라이드]
+
+- 코어 레퍼런스 [11슬라이드]
+
+- 타이틀 배경 컨셉 수정 [20슬라이드]
+
+- 홈 UI 배치도 수정 [25슬라이드]
+UI_Deatils.pptx 변경사항 반영
+
+- Squad Screen Layout 수정 [26슬라이드]
+Unit Selection Screen Layout에서 명칭 변경 (통일)
+UI_Details.pptx 변경사항 반영
+```
+## 2023-11-09 10:59
+### <b>Art_Concept.pptx</b>
+```
+- 홈(로비)배경 컨셉1 추가 [16슬라이드]
+
+- 홈(로비)배경 레퍼런스1 추가 [17슬라이드]
+
+- 홈(로비)배경 레퍼런스2 추가 [18슬라이드]
+```
+
 ## 2023-11-07 23:29
 ### <b>UI_Details.pptx</b>
 Version 2.0 &#8594; 2.1
