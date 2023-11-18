@@ -1,6 +1,58 @@
 # 3팀 Hive 기획서 ChangeLog
 서강대 게임교육원 게임제작실습
 
+## 2023-11-18 15:30
+### <b>User_Interaction.pptx</b>
+Chapter Scene 외 완료 Version 0.1
+```
+- 제스처 정의 [3슬라이드]
+표기 예시 추가 (도형 및 색상으로 표기)
+
+- Title Scene [5슬라이드]
+표기 추가 및 설명 추가
+
+- Home Scene [7슬라이드]
+표기 추가 및 설명 추가
+
+- Home Scene (Chapter Icon Interactions) 슬라이드 추가 [8슬라이드]
+예시 이미지 추가 / 표기 추가 및 설명 추가
+
+- Squad Scene [10슬라이드]
+표기 추가
+
+- Squad Scene (Unit Card Interactions) [11슬라이드]
+예시 이미지 추가 / 표기 추가 및 설명 추가
+
+- Squad Scene (Button Interactions) [12슬라이드]
+예시 이미지 추가 / 표기 추가 및 설명 추가
+```
+
+## 2023-11-17 17:18
+### <b>User_Interaction.pptx</b>
+새로운 세부기획서 / 수정 완료되지 않음
+```
+- 제목 슬라이드 추가 [1슬라이드]
+
+- 목차 슬라이드 추가 [2슬라이드]
+
+- 제스처 정의 [3슬라이드]
+Tap / Double Tap / Press / Swipe / Drag
+
+- Title Scene 부제 슬라이드 추가 [4슬라이드]
+해당 화면 레이아웃 슬라이드 추가 [5슬라이드]
+
+- Home Scene 부제 슬라이드 추가 [6슬라이드]
+해당 화면 레이아웃 슬라이드 추가 [7슬라이드]
+
+- Squad Scene 부제 슬라이드 추가 [8슬라이드]
+해당 화면 레이아웃 슬라이드 추가 [9슬라이드]
+
+- Chapter Scene 부제 슬라이드 추가 [10슬라이드]
+해당 화면 레이아웃 슬라이드 추가 [11슬라이드]
+
+- 뒷표지 슬라이드 추가 [12슬라이드]
+```
+
 ## 2023-11-11 23:38
 ### <b>Unit_System.pptx</b>
 ```
