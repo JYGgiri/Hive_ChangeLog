@@ -1,6 +1,36 @@
 # 3팀 Hive 기획서 ChangeLog
 서강대 게임교육원 게임제작실습
 
+## 2023-11-25 17:27
+### <b>Hive_Interaction.pptx</b>
+버전 0.1 → 1.0
+```
+- Chapter Scene (Button Interactions) [14슬라이드]
+각종 버튼 상호작용 예시 이미지 추가 / 표기 추가 및 설명 추가
+
+- Chapter Scene (Unit Interactions) [15슬라이드]
+유닛 상호작용 예시 이미지 추가 / 표기 추가 및 설명 추가
+```
+
+## 2023-11-25 16:27
+### <b>Hive_Resource_Info.xlsx
+```
+- ResourceList 탭 → RoughList로 이름 변경
+
+- Final 탭 추가
+해당 탭에 유사한 양식 추가
+마지막 작업 지시 용도로 파일명 통일을 위해 사용될 예정.
+```
+
+## 2023-11-25 15:07
+### <b>Title-BG_Instruction.pptx</b>
+버전 1.0
+```
+- 기획자가 직접 그린 타이틀 배경 구도 [2슬라이드]
+- 배경 구도에 대한 설명 & 작업 지시 [3슬라이드]
+- 레퍼런스 [4~7슬라이드]
+```
+
 ## 2023-11-19 23:56
 ### <b>Level_Design.xlsx</b>
 ```
